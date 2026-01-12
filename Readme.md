@@ -4,7 +4,7 @@
 
 Mettre en place une page d'accueil basique en utilisant du html et css.
 
-## Les composants du projet
+## Les composantes du projet
 
 ### Header
 
